@@ -2,7 +2,7 @@
 
 A lightweight Rust web server built with Axum for processing images. This API allows users to upload images and apply various transformations such as grayscale conversion, brightness adjustment, cropping, rotation, and more.
 
-https://github.com/user-attachments/assets/a2a125ac-7ccc-426a-b463-f80f7e1ddded
+https://github.com/user-attachments/assets/07c1bfb2-29ab-4944-8774-93220e8ea7a1
 
 ## Features
 
